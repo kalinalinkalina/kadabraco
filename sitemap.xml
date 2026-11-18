@@ -4,22 +4,22 @@
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
   xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
 >
-  <!-- TODO: Replace every kalinaborkiewicz.com/crowdfxlabs URL when the permanent production domain is available. -->
+  <!-- TODO: Replace every kalinaborkiewicz.com/kadabraco URL when the permanent production domain is available. -->
   <url>
-    <loc>https://kalinaborkiewicz.com/crowdfxlabs/</loc>
+    <loc>https://kalinaborkiewicz.com/kadabraco/</loc>
     <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://kalinaborkiewicz.com/crowdfxlabs/assets/game-1600.webp</image:loc>
-      <image:caption>Thousands of people participating in a CrowdFXLabs interactive audience game</image:caption>
-      <image:title>CrowdFXLabs live audience experience</image:title>
+      <image:loc>https://kalinaborkiewicz.com/kadabraco/assets/game-1600.webp</image:loc>
+      <image:caption>Thousands of people participating in a Kadabraco interactive audience game</image:caption>
+      <image:title>Kadabraco live audience experience</image:title>
     </image:image>
     <video:video>
-      <video:thumbnail_loc>https://kalinaborkiewicz.com/crowdfxlabs/assets/crowdfxlabs-social.jpg</video:thumbnail_loc>
-      <video:title>CrowdFXLabs interactive audience experiences in action</video:title>
-      <video:description>A demonstration reel of CrowdFXLabs crowd games, live polling, and large-screen audience interactions.</video:description>
-      <video:content_loc>https://kalinaborkiewicz.com/crowdfxlabs/assets/demo-action-loop.mp4</video:content_loc>
+      <video:thumbnail_loc>https://kalinaborkiewicz.com/kadabraco/assets/kadabraco-social.jpg</video:thumbnail_loc>
+      <video:title>Kadabraco interactive audience experiences in action</video:title>
+      <video:description>A demonstration reel of Kadabraco crowd games, live polling, and large-screen audience interactions.</video:description>
+      <video:content_loc>https://kalinaborkiewicz.com/kadabraco/assets/demo-action-loop.mp4</video:content_loc>
     </video:video>
   </url>
 </urlset>

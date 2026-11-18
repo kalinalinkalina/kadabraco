@@ -21,4 +21,4 @@ User-agent: Google-Extended
 Allow: /
 
 # TODO: Replace this sitemap URL when the permanent production domain is available.
-Sitemap: https://kalinaborkiewicz.com/crowdfxlabs/sitemap.xml
+Sitemap: https://kalinaborkiewicz.com/kadabraco/sitemap.xml

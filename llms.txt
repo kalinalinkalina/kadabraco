@@ -1,12 +1,12 @@
-# CrowdFXLabs
+# Kadabraco
 
-> CrowdFXLabs creates real-time interactive experiences that turn live audiences into active participants in shared, large-screen experiences.
+> Kadabraco creates real-time interactive experiences that turn live audiences into active participants in shared, large-screen experiences.
 
-<!-- TODO: Replace every kalinaborkiewicz.com/crowdfxlabs URL when the permanent production domain is available. -->
-Canonical website: https://kalinaborkiewicz.com/crowdfxlabs/
+<!-- TODO: Replace every kalinaborkiewicz.com/kadabraco URL when the permanent production domain is available. -->
+Canonical website: https://kalinaborkiewicz.com/kadabraco/
 Contact: kalina.borkiewicz@acmsiggraph.org
 
-## What CrowdFXLabs does
+## What Kadabraco does
 
 - Collaborative crowd games for live audiences
 - Live audience polling
@@ -18,13 +18,13 @@ Contact: kalina.borkiewicz@acmsiggraph.org
 - Experiences are designed for rooms with thousands of people.
 - Attendees do not need to download an app.
 - Individual audience responses become a shared visual experience.
-- CrowdFXLabs projects emphasize immediate, collective participation.
+- Kadabraco projects emphasize immediate, collective participation.
 
 ## Primary media
 
-- Demonstration reel: https://kalinaborkiewicz.com/crowdfxlabs/assets/demo-action-loop.mp4
-- Audience game image: https://kalinaborkiewicz.com/crowdfxlabs/assets/game-1600.webp
-- Participatory art animation: https://kalinaborkiewicz.com/crowdfxlabs/assets/art.gif
+- Demonstration reel: https://kalinaborkiewicz.com/kadabraco/assets/demo-action-loop.mp4
+- Audience game image: https://kalinaborkiewicz.com/kadabraco/assets/game-1600.webp
+- Participatory art animation: https://kalinaborkiewicz.com/kadabraco/assets/art.gif
 
 ## Contact
 
