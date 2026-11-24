@@ -1,12 +1,12 @@
-# Kadabraco
+# Kadabra Co
 
-> Kadabraco creates real-time interactive experiences that turn live audiences into active participants in shared, large-screen experiences.
+> Kadabra Co creates real-time interactive experiences that turn live audiences into active participants in shared, large-screen experiences.
 
 <!-- TODO: Replace every kalinaborkiewicz.com/kadabraco URL when the permanent production domain is available. -->
 Canonical website: https://kalinaborkiewicz.com/kadabraco/
 Contact: kalina.borkiewicz@acmsiggraph.org
 
-## What Kadabraco does
+## What Kadabra Co does
 
 - Collaborative crowd games for live audiences
 - Live audience polling
@@ -18,7 +18,7 @@ Contact: kalina.borkiewicz@acmsiggraph.org
 - Experiences are designed for rooms with thousands of people.
 - Attendees do not need to download an app.
 - Individual audience responses become a shared visual experience.
-- Kadabraco projects emphasize immediate, collective participation.
+- Kadabra Co projects emphasize immediate, collective participation.
 
 ## Primary media
 

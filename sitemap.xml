@@ -12,13 +12,13 @@
     <priority>1.0</priority>
     <image:image>
       <image:loc>https://kalinaborkiewicz.com/kadabraco/assets/game-1600.webp</image:loc>
-      <image:caption>Thousands of people participating in a Kadabraco interactive audience game</image:caption>
-      <image:title>Kadabraco live audience experience</image:title>
+      <image:caption>Thousands of people participating in a Kadabra Co interactive audience game</image:caption>
+      <image:title>Kadabra Co live audience experience</image:title>
     </image:image>
     <video:video>
       <video:thumbnail_loc>https://kalinaborkiewicz.com/kadabraco/assets/kadabraco-social.jpg</video:thumbnail_loc>
-      <video:title>Kadabraco interactive audience experiences in action</video:title>
-      <video:description>A demonstration reel of Kadabraco crowd games, live polling, and large-screen audience interactions.</video:description>
+      <video:title>Kadabra Co interactive audience experiences in action</video:title>
+      <video:description>A demonstration reel of Kadabra Co crowd games, live polling, and large-screen audience interactions.</video:description>
       <video:content_loc>https://kalinaborkiewicz.com/kadabraco/assets/demo-action-loop.mp4</video:content_loc>
     </video:video>
   </url>
